@@ -24,7 +24,7 @@ _❤️⃟YASIYA OFFCIAL GITHUB PAGE_
 
 **[» Join official group](https://chat.whatsapp.com/LImQ863zlRo9FflfpuuUUM)**
 
-### For heroku deployers: [![Deploy]Coming Soon)](https://heroku.com/deploy)
+### For heroku deployers: [![Deploy](Coming Soon)](https://heroku.com/deploy)
 
 **[» See heroku deploy instructions](Coming Soon)**
 
