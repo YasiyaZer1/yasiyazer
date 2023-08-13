@@ -1,7 +1,7 @@
-#_❤️⃟𝑌𝑎𝑠𝑖𝑦𝑎ꦿ❉⃟࿔ OFC GITHUB_
-*A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
+_❤️⃟YASIYA OFFCIAL GITHUB PAGE_
+*A WhatsApp Bot Creater.*
 
-![cover]([assets/cover.jpg](https://telegra.ph/file/f3c505c3a8add1841d9e2.jpg))
+![cover]((https://telegra.ph/file/f3c505c3a8add1841d9e2.jpg)
 
 **Queen Amdi** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!🎈
 
