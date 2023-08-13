@@ -17,20 +17,15 @@ _❤️⃟YASIYA OFFCIAL GITHUB PAGE_
 ![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
 
-### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
+### Visit our official WebSite
+**[» OFFICIAL WEBSITE](https://sites.google.com/view/yasiyaytofficial/home)**
 
-**[» Official Website](https://amdaniwasa.com)**
+### You can join our WhatsApp Official Group by this invite link
 
-### You can join our Beta Testing WhatsApp Group by this invite link
+**[» Join official group](https://chat.whatsapp.com/LImQ863zlRo9FflfpuuUUM)**
 
-**[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
+### For heroku deployers: [![Deploy]Coming Soon)](https://heroku.com/deploy)
 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-**[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
-
-**[» See other deploy methods](https://amdaniwasa.com/#install)**
-
-**[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
+**[» See heroku deploy instructions](Coming Soon)**
 
 
